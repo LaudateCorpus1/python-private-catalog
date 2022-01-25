@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.0](https://github.com/googleapis/python-private-catalog/compare/v0.4.1...v0.5.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#78](https://github.com/googleapis/python-private-catalog/issues/78)) ([0878a4e](https://github.com/googleapis/python-private-catalog/commit/0878a4ed5f963cc32a23a7e32e47cd89b1db70cc))
+* generate snippet metadata ([0878a4e](https://github.com/googleapis/python-private-catalog/commit/0878a4ed5f963cc32a23a7e32e47cd89b1db70cc))
+
 ### [0.4.1](https://www.github.com/googleapis/python-private-catalog/compare/v0.4.0...v0.4.1) (2021-11-01)
 
 
